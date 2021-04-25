@@ -2,46 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="033a8075-7f6b-448f-ac9b-65358220c443" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/api/render-social-image/[pageId].ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/render-social-image/[pageId].ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CustomFont.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CustomFont.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CustomHtml.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CustomHtml.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ErrorPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ErrorPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/GitHubShareButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/GitHubShareButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/LoadingIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/LoadingIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nextjs-notion-starter-kit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/NotionPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NotionPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Page404.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Page404.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PageActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageActions.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PageHead.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageHead.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PageSocial.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageSocial.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ReactUtterances.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ReactUtterances.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/acl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/acl.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap-client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap-client.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/db.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/db.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-all-pages.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-all-pages.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-canonical-page-id.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-canonical-page-id.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-config-value.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-config-value.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-page-description.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-page-description.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-page-tweet.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-page-tweet.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-preview-images.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-preview-images.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-site-for-domain.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-site-for-domain.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-site-maps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-site-maps.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get-sites.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get-sites.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/map-image-url.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/map-image-url.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/map-page-url.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/map-page-url.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/notion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/notion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/oembed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/oembed.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/resolve-notion-page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/resolve-notion-page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/search-notion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/search-notion.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/[pageId].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[pageId].tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/site.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/notion.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/notion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,8 +47,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.css.dialects" />
     <property name="ts.external.directory.path" value="C:\Users\ibrahim\Desktop\nextjs-notion-starter-kit\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrahim\Desktop\nextjs-notion-starter-kit" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,11 +78,15 @@
       <workItem from="1616163956522" duration="669000" />
       <workItem from="1616166163670" duration="1634000" />
       <workItem from="1617741611855" duration="764000" />
-      <workItem from="1619265953626" duration="1710000" />
+      <workItem from="1619265953626" duration="2604000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

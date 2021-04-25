@@ -9,3 +9,9 @@ module.exports = withBundleAnalyzer({
     domains: ['pbs.twimg.com']
   }
 })
+
+module.exports = {
+  future: {
+    webpack5: true,
+  },
+}

@@ -2,7 +2,6 @@
 import 'styles/global.css'
 
 // core styles shared by all of react-notion-x (required)
-import 'react-notion-x/src/styles.css'
 
 // used for code syntax highlighting (optional)
 import 'prismjs/themes/prism-coy.css'
@@ -33,6 +32,8 @@ import 'prismjs/components/prism-markup'
 import 'prismjs/components/prism-javascript'
 import 'prismjs/components/prism-typescript'
 import 'prismjs/components/prism-bash'
+
+import 'styles/app.css'
 
 import React from 'react'
 import { useRouter } from 'next/router'
