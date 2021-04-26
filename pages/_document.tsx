@@ -35,6 +35,8 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <meta name="yandex-verification" content="7447714f8a449b66" />
+
           </Head>
 
           <body>
